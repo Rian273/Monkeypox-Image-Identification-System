@@ -1,0 +1,4 @@
+https://huggingface.co/spaces/Rian273/Monkeypox_detection
+
+https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset/data?select=Fold1
+
